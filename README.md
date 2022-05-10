@@ -13,4 +13,3 @@ For example in this image the data is filtered by ca (state)
 
 ## Summary
 In summary, there are simplicities in a webpage like this and there are drawbacks of a page with this layout.
-In short, the page layout isn't aligned. I would prefer the main body centered and the upper summary as well. I would align the upper summary and table data on the same plane and have the filters to the side. Other than those minor suggestions this web page is a good fit for its use case.
